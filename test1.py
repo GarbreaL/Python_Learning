@@ -17,3 +17,6 @@ str_input=input("输入数字2：")
 num2=int(str_input)
 num3=num2+num1
 print(str(num1)+"+"+str(num2)+"="+str(num3))
+str_input="Hello world"
+for i in str_input:
+    print(i,end='\n') #1个字符打印一行
