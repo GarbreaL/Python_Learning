@@ -2,6 +2,11 @@
 member=["John","Tom","Rose"]
 mix=["John",30,3.14,["Monther","Father"],[]]
 
+for i in member:
+    print(i,end="\n")
+
+
+
 #数组增加的3种方法append，extend，insert
 member.append("GoldenWater")
 print(member)
@@ -41,3 +46,6 @@ member3=member[:]
 print(member3)
 member.append("Shotter")
 print(member3)
+#翻转后排序
+member.sort(reverse=True)
+print(member)
