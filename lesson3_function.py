@@ -1,13 +1,16 @@
 #定义函数
 def MyFirstFunction():
-    '函数说明是在这里'
+    """
+    函数说明是在这里
+    可以写很多行
+    """  
     print("This is MyFirstFunction")
 
 #调用函数
 MyFirstFunction()    
 #函数说明查看
 print("函数说明查看方式：MyFirstFunction.__doc__")
-MyFirstFunction.__doc__
+print(MyFirstFunction.__doc__)
 
 
 #多参数
