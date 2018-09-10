@@ -15,6 +15,3 @@ while 1:
         pass
     else:
         sys.exit(0)
-
-
-
