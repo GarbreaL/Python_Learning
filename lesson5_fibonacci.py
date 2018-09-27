@@ -26,5 +26,4 @@ def fib2(n):
            n-=1
     return n3
 result=fib2(20)                     
-print("迭代20次后斐波那契数是 %d" %(result))            
-
+print("迭代20次后斐波那契数是 %d" %(result))  
