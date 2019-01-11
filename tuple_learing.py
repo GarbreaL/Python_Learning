@@ -16,5 +16,3 @@ tuple1=tuple1[:2]+("100","200",300)+tuple1[2:]
 print(tuple1)
 for o in tuple1:
     print(type(o))
-
-
