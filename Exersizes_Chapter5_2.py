@@ -1,4 +1,5 @@
 def displayInventory(inventory):
+	#用isinstance()来判断变量的类型
 	if isinstance(inventory,dict):
 		totalcount=0
 		itemcount={}
