@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8d0f52f-62fc-4c23-a4d1-cdf8b035af86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/old_exersizes/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10_easygui.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson10_easygui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson11_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson11_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson3_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4_factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson4_factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5_fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson5_fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6_finacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson6_finacy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson7_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson8_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson8_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson9_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson9_try.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printAndInput_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/printAndInput_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/string_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple_learing.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/tuple_learing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_exsersizes/Exersizes_Chapter7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_exsersizes/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exersizes_Chapter6.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_exsersizes/Exersizes_Chapter6.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,34 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/old_exersizes/test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/old_exersizes/string_function.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/old_exersizes/test.txt">
+        <entry file="file://$PROJECT_DIR$/new_exsersizes/Exersizes_Chapter7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="285">
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/bulletPointAdder.py">
+        <entry file="file://$PROJECT_DIR$/new_exsersizes/Exersizes_Chapter6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="494">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -66,6 +40,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/old_exersizes/lesson2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/old_exersizes/lesson8_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -89,6 +81,10 @@
         <option value="$PROJECT_DIR$/Projects/bulletPointAdder.py" />
         <option value="$PROJECT_DIR$/Exersizes_Chapter6.py" />
         <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/Projects/Exersizes_Chapter7.py" />
+        <option value="$PROJECT_DIR$/new_exsersizes/__init__.py" />
+        <option value="$PROJECT_DIR$/new_exsersizes/Exersizes_Chapter7.py" />
+        <option value="$PROJECT_DIR$/new_exsersizes/Exersizes_Chapter71.py" />
       </list>
     </option>
   </component>
@@ -114,6 +110,16 @@
               <item name="Python_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Learning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="new_exsersizes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="old_exersizes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -122,7 +128,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python\Python_Learning\new_exsersizes" />
+      <recent name="E:\Python\Python_Learning\old_exersizes" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,8 +149,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exersizes_Chapter6">
-    <configuration name="Exersizes_Chapter6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Exersizes_Chapter71">
+    <configuration name="Exersizes_Chapter7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +158,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_exsersizes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exersizes_Chapter6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_exsersizes/Exersizes_Chapter7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exersizes_Chapter71" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_exsersizes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\Python\Python_Learning\new_exsersizes\Exersizes_Chapter7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,9 +213,61 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/old_exersizes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old_exersizes/lesson2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson8_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/old_exersizes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old_exersizes/lesson8_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bulletPointAdder" />
+      <item itemvalue="Python.Exersizes_Chapter7" />
+      <item itemvalue="Python.lesson8_file" />
+      <item itemvalue="Python.lesson2" />
+      <item itemvalue="Python.Exersizes_Chapter71" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exersizes_Chapter6" />
+        <item itemvalue="Python.Exersizes_Chapter71" />
+        <item itemvalue="Python.lesson2" />
+        <item itemvalue="Python.Exersizes_Chapter7" />
+        <item itemvalue="Python.lesson8_file" />
         <item itemvalue="Python.bulletPointAdder" />
       </list>
     </recent_temporary>
@@ -211,25 +297,33 @@
       <option name="project" value="LOCAL" />
       <updated>1549366025888</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rearrange the files">
+      <created>1550754164269</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550754164269</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -278,7 +372,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="submit at home" />
-    <option name="LAST_COMMIT_MESSAGE" value="submit at home" />
+    <MESSAGE value="rearrange the files" />
+    <option name="LAST_COMMIT_MESSAGE" value="rearrange the files" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -310,12 +405,6 @@
     <entry file="file://$PROJECT_DIR$/old_exersizes/printAndInput_test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson9_try.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson6_finacy.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/old_exersizes/tuple_learing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -323,47 +412,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson8_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson4_factorial.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/old_exersizes/lesson1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exersizes_Chapter6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/bulletPointAdder.py">
+    <entry file="file://$PROJECT_DIR$/Projects/Exersizes_Chapter7.py" />
+    <entry file="file://$PROJECT_DIR$/old_exersizes/string_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/data4BulletPointAdder.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old_exersizes/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -374,8 +430,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old_exersizes/string_function.py">
+    <entry file="file://$PROJECT_DIR$/old_exersizes/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/bulletPointAdder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson9_try.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson6_finacy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson4_factorial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_exersizes/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson3_function.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_exsersizes/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson8_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="321" selection-start-line="321" selection-end-line="321" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/data4BulletPointAdder.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_exsersizes/Exersizes_Chapter6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_exsersizes/Exersizes_Chapter7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_exsersizes/Exersizes_Chapter7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
