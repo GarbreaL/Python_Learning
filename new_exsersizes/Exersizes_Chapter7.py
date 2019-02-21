@@ -20,10 +20,10 @@ def isPhoneNumber(text):
 			return False
 	return True
 
-#print('415-545-6465 is a phonenumber:')
-#print(str(isPhoneNumber('415-545-6465')))
-#print('Moshi Moshi is a phonenumber:')
-#print(str(isPhoneNumber('Moshi Moshi')))
+print('415-545-6465 is a phonenumber:')
+print(str(isPhoneNumber('415-545-6465')))
+print('Moshi Moshi is a phonenumber:')
+print(str(isPhoneNumber('Moshi Moshi')))
 
 message='Call me at 415-555-1011 tomorrow 415-555-9999 is my office'
 for i in range(len(message)):
