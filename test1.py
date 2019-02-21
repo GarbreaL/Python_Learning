@@ -21,4 +21,4 @@ print(str(num1)+"+"+str(num2)+"="+str(num3))
 """
 str_input="Hello world"
 for i in str_input:
-    print(i,end='\n') #1个字符打印一行
+    print(i,"\n") #1个字符打印一行
