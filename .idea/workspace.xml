@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8d0f52f-62fc-4c23-a4d1-cdf8b035af86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_exersizes/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10_easygui.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson10_easygui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson11_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson11_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson3_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson4_factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5_fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson5_fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6_finacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson6_finacy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson7_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson8_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson8_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/lesson9_try.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printAndInput_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/printAndInput_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/string_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuple_learing.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_exersizes/tuple_learing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +29,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test1.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/old_exersizes/test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="247">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/old_exersizes/string_function.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/old_exersizes/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/bulletPointAdder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/data4BulletPointAdder.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -51,7 +98,9 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -64,11 +113,6 @@
             <path>
               <item name="Python_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,7 +298,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson10_easygui.py">
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson10_easygui.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -263,61 +307,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/printAndInput_test.py">
+    <entry file="file://$PROJECT_DIR$/old_exersizes/printAndInput_test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9_try.py">
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson9_try.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6_finacy.py">
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson6_finacy.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/string_function.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuple_learing.py">
+    <entry file="file://$PROJECT_DIR$/old_exersizes/tuple_learing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8_file.py">
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson8_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/data4BulletPointAdder.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/bulletPointAdder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4_factorial.py">
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson4_factorial.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2.py">
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1.py">
+    <entry file="file://$PROJECT_DIR$/old_exersizes/lesson1.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exersizes_Chapter6.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -326,12 +346,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
+    <entry file="file://$PROJECT_DIR$/Projects/bulletPointAdder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/data4BulletPointAdder.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_exersizes/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_exersizes/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_exersizes/string_function.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
