@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .idea/workspace.xml
 .idea/Python_Learning.iml
@@ -5,3 +6,10 @@
 .idea/vcs.xml
 .idea/encodings.xml
 .idea/misc.xml
+=======
+.idea/
+.idea
+.idea/workspace.xml
+.vscode
+.vscode/
+>>>>>>> 7d5d7794d91b98e9bdb2f486eb365d92a577ff27
